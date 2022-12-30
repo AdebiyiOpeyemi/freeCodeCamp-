@@ -1,0 +1,60 @@
+body {
+    background-image: url(https://th.bing.com/th/id/OIP.qfBY-OVijQPoP5GYVQ3M0wHaDy?w=334&h=178&c=7&r=0&o=5&pid=1.7);
+    font-family: Tahoma;
+    font-style: normal;
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  h1 {
+    text-align: center;
+    margin: 1em auto;
+  }
+  p {
+    text-align: center;
+    font-style: italic;
+    margin: -1.5em auto 2em auto;
+  }
+  .dataset {
+    background-color:  #c3e997;
+    margin: 0 auto;
+    max-width: 55%;
+    height: auto;
+    padding: 30px;
+  }
+  
+  fieldset {
+    border: none;
+    margin: 0 auto;
+  }
+  label {
+    display: block;
+    margin: 0.5rem 0;
+  }
+  
+  input, textarea, select {
+    width: 100%;
+    margin: 10px 0 0 0;
+    height: 2em;
+  }
+  
+  input[type="radio"] {
+    width: unset;
+    margin: 0 0.5rem 0 0;
+    vertical-align: middle;
+  }
+  input[type="checkbox"] {
+    width: unset;
+    margin: 0 0.5rem 0 0;
+    vertical-align: middle;
+  }
+  input[type="submit"] {
+    height: 3em;
+    background-color: #9fcf1a;
+  }
+  
+  textarea {
+    height: unset;
+  }
+  
